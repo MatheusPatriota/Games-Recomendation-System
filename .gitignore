@@ -1,0 +1,14 @@
+# Arquivos e pastas a serem ignorados pelo Git
+
+# Pastas
+env/
+__pycache__/
+
+# Arquivos
+*.pyc
+*.pyo
+*.pyd
+*.egg-info
+*.egg
+*.log
+*.swp
